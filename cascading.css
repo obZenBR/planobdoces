@@ -1,0 +1,44 @@
+
+
+body {
+    color: white;
+    font-family: 'Signika Negative', sans-serif;
+    background-position: inherit;
+    background-color: #da79ac;
+    @media (min-width: 600px) {
+        div {
+            height: 100px;
+            width: 100px;
+        }
+}
+
+
+.content1 {
+    position: relative;    
+    top: 30px;    
+    font-size: 2rem;
+    font-weight: bolder;
+    text-align: center;
+
+}
+
+.content2 {
+    position: relative;
+    top: 40px;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.content3 {
+    position: relative;
+    top: 60px;
+    left: 50px;
+    width: 500px;
+}
+
+.content4 {
+    position: relative;
+    top: 80px;
+}
+
